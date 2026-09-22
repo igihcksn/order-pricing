@@ -1,0 +1,6 @@
+{
+  "name": "Sneaker Clean Price Estimator & Lead Closer",
+  "description": "Instant price calculator for sneaker cleaning services with direct WhatsApp booking and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
